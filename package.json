@@ -1,6 +1,6 @@
 {
   "name": "@mdis/color-console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a decorated console object for messages",
   "main": "index.js",
   "scripts": {

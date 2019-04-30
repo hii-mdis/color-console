@@ -43,7 +43,7 @@ Each of the five console methods will output using the following colors:
 ## Additional Notes
 
 1. The console object returned by calling the `@mdis/color-console` function is an actual Node.js Console object and has all of the advertised methods.
-2. Calling the `@mdis/color-console` with an empty argument will cause the filename of the parent module to be used as the prefix. If this is not desired, please pass an empty string to the function.
+2. If the `@mdis/color-console` function is called with no argument, then the filename of the parent module is used as the prefix. If this is not desired, please pass an empty string to the function.
 
 ## License
 
